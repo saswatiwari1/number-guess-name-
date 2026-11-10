@@ -1,4 +1,4 @@
-# number-guess-name-
+# number-guessing-game
 computer vs human in number guessing game
 import random
 import math
